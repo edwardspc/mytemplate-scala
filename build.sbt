@@ -1,4 +1,4 @@
-name := "hello-scala"
+name := "mytemplate-scala"
 
 version := "1.0"
 
